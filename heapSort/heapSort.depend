@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583104110 source:/home/raabe/workspaceCodeblocks/heapSort/main.c
+	<stdio.h>
+	<stdlib.h>
+
